@@ -1,7 +1,8 @@
-# 💫 About Me:
-decent developer
+And yet you're still here.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTheRealOne&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Check also my chess.com profile: https://www.chess.com/member/not_a_gm_36
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
